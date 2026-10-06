@@ -2,10 +2,11 @@
 mission: NOX-4
 title: 'Instant notification when claim payouts fail'
 role: product
-status: draft
+status: approved
 version: 1
 author: dev
 ai_drafted: false
+approved_at: 2026-10-06T02:43:14Z
 ---
 
 # Product spec: Instant notification when claim payouts fail
